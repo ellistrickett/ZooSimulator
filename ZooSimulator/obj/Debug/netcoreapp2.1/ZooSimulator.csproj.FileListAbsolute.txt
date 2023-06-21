@@ -1,0 +1,13 @@
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\bin\Debug\netcoreapp2.1\ZooSimulator.deps.json
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\bin\Debug\netcoreapp2.1\ZooSimulator.runtimeconfig.json
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\bin\Debug\netcoreapp2.1\ZooSimulator.runtimeconfig.dev.json
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\bin\Debug\netcoreapp2.1\ZooSimulator.dll
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\bin\Debug\netcoreapp2.1\ZooSimulator.pdb
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.csproj.AssemblyReference.cache
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.AssemblyInfoInputs.cache
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.AssemblyInfo.cs
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.dll
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.pdb
+C:\Users\ellis\DevelopmentProjects\ZooSimulator\ZooSimulator\obj\Debug\netcoreapp2.1\ZooSimulator.genruntimeconfig.cache
